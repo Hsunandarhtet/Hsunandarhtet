@@ -1,12 +1,12 @@
 <h3> 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&weight=350&pause=1000&color=C134F7&random=false&width=435&lines=Hi!!+I+am+Hsu+Nandar+Htet;A+passionate+Software+Engineer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&weight=350&pause=1000&color=C134F7&random=false&width=435&lines=Hi!!+I+am+Hsu+Nandar+Htet.;)](https://git.io/typing-svg)
   <img alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="320" align="right"/>
 </h3>
 
 ### 💫 About Me:
 
-- 👋 &nbsp; Hello, I’m Hsu Nandar Htetan, IT professional with experience in front-end and back-end development, data transformation, and project management.
+- 👋 &nbsp; Hello, I’m Hsu Nandar Htet, an IT professional with experience in front-end and back-end development, data transformation, and project management.
 - 📫 &nbsp; How to reach me ... [suhtet1375nandar@gmail.com](mailto:suhtet1375nandar@gmail.com)
 - 👀 &nbsp; Looking for new opportunities.
 
