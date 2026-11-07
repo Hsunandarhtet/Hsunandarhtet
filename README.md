@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-- 👋 &nbsp; Hello, I’m Hsu Nandar Htet, a Software Engineer.
+- 👋 &nbsp; Hello, I’m Hsu Nandar Htetan, IT professional with experience in front-end and back-end development, data transformation, and project management.
 - 📫 &nbsp; How to reach me ... [suhtet1375nandar@gmail.com](mailto:suhtet1375nandar@gmail.com)
 - 👀 &nbsp; Looking for new opportunities.
 
@@ -14,7 +14,6 @@
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%25%23005F0F.svg?style=plastic&logo=thymeleaf&logoColor=white)
